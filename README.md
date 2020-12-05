@@ -1,0 +1,2 @@
+# myhexaspiral
+Small graphical program
